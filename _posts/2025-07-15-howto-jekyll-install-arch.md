@@ -198,7 +198,7 @@ Your `localhost` on port `4000`
 
 **Real world example:**
 
-This blog is a [fork](https://github.com/cotes2020/jekyll-theme-chirpy) of a theme that was created by this lovely animal, [Cotes Chung](https://github.com/cotes2020).  <br>
+This blog is a [fork](https://github.com/cotes2020/jekyll-theme-chirpy) of a theme that was created by this lovely animal, [Cotes Chung](https://github.com/cotes2020) and [contributors](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors).  <br>
 If you would like to know how I installed it, have a look at this developers documentation page on getting started with GitHub pages [here](https://chirpy.cotes.page/posts/getting-started/).
 
 > If you like this theme and the work that [Cotes Chung](https://chirpy.cotes.page/) has done, you can always show your appreciation by clicking that  ⭐ and/or supporting their work with a ☕.
